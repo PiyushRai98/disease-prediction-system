@@ -23,13 +23,13 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data
-data/processed/*.csv
-data/processed/*.pkl
+# # Data
+# data/processed/*.csv
+# data/processed/*.pkl
 
-# Models
-models/**/*.pkl
-models/**/*.joblib
+# # Models
+# models/**/*.pkl
+# models/**/*.joblib
 
 # Reports
 reports/figures/*.png
