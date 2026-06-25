@@ -31,9 +31,9 @@ env/
 # models/**/*.pkl
 # models/**/*.joblib
 
-# Reports
-reports/figures/*.png
-reports/model_results/*.csv
+# # Reports
+# reports/figures/*.png
+# reports/model_results/*.csv
 
 # OS
 .DS_Store
